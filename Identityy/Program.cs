@@ -1,0 +1,1 @@
+﻿Identityy.Startup.Init(args).Run();
